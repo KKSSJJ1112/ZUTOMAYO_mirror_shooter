@@ -1,0 +1,7 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet
+"C1,C3",2,0.1μF,,,,Capacitor_SMD:C_0603_1608Metric,C1591
+C2,1,10μF,,,,Capacitor_SMD:C_0603_1608Metric,C1691
+"Q1,Q2,Q3,Q4",4,SS8050,,,,Package_TO_SOT_SMD:SOT-23,C444722
+"R1,R2",2,330Ω,,,,Resistor_SMD:R_0603_1608Metric,C105879
+R3,1,10K,,,,Resistor_SMD:R_0603_1608Metric,C99198
+R4,1,100Ω,,,,Resistor_SMD:R_0603_1608Metric,C105588
