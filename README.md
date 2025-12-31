@@ -1,3 +1,10 @@
+
+![KakaoTalk_20251231_225942691_02](https://github.com/user-attachments/assets/37f096f8-1956-4f50-b59b-7004c8a2c392)
+
+![KakaoTalk_20251231_225942691_01](https://github.com/user-attachments/assets/e989c098-6bc4-44b5-aa6c-e4f43704f178)
+
+
+
 # 🔫 Mirror Shooter / ミラーシューター / 미러슈터
 
 > **Language / 言語 / 언어**: [English](#english) | [日本語](#日本語) | [한국어](#한국어)
@@ -30,7 +37,15 @@ This pistol-shaped prop features LED illumination and a laser emitter at the muz
 | Slide LED Ring | NeoPixel |
 | Battery | Samsung SDI 18650 Li-ion cell |
 
-### Photos
+### Project Structure
+
+```
+├── mirror/              # ESP32 PlatformIO project files
+├── mirror_Shooter_v2/   # KiCad project files
+└── mirrorshooter_stl/   # 3D printable STL files
+```
+
+### [Photos ↓](#gallery)
 
 ---
 
@@ -60,7 +75,15 @@ This pistol-shaped prop features LED illumination and a laser emitter at the muz
 | スライド背面LEDリング | NeoPixel |
 | バッテリー | Samsung SDI 18650 リチウムイオンセル |
 
-### 写真
+### プロジェクト構成
+
+```
+├── mirror/              # ESP32 PlatformIOプロジェクトファイル
+├── mirror_Shooter_v2/   # KiCadプロジェクトファイル
+└── mirrorshooter_stl/   # 3Dプリント用STLファイル
+```
+
+### [写真 ↓](#gallery)
 
 ---
 
@@ -90,6 +113,28 @@ This pistol-shaped prop features LED illumination and a laser emitter at the muz
 | 슬라이드 후면 LED 링 | NeoPixel |
 | 배터리 | Samsung SDI 18650 리튬이온 셀 |
 
-### 사진
+### 프로젝트 구조
+
+```
+├── mirror/              # ESP32 PlatformIO 프로젝트 파일
+├── mirror_Shooter_v2/   # KiCad 프로젝트 파일
+└── mirrorshooter_stl/   # 3D 프린팅용 STL 파일
+```
+
+### [사진 ↓](#gallery)
 
 ---
+
+## Gallery
+
+![8](https://github.com/user-attachments/assets/6e41dd72-09c4-4686-b1c1-594fc0c8d4f9)
+
+![7](https://github.com/user-attachments/assets/c68b97d4-369b-4458-80ca-10f9507a03ae)
+
+![KakaoTalk_20251231_225942691](https://github.com/user-attachments/assets/85f9d886-09a5-49ec-83ec-21058133027d)
+
+![4](https://github.com/user-attachments/assets/11dffc8e-f59f-44f6-9dbc-1e0408e56d1a)
+
+
+
+<!-- 이미지를 여기에 추가하세요 / Add images here / 画像をここに追加 -->
