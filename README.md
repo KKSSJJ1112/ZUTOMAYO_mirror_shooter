@@ -1,8 +1,5 @@
 
-![KakaoTalk_20251231_225942691_02](https://github.com/user-attachments/assets/37f096f8-1956-4f50-b59b-7004c8a2c392)
-
-![KakaoTalk_20251231_225942691_01](https://github.com/user-attachments/assets/e989c098-6bc4-44b5-aa6c-e4f43704f178)
-
+<img width="959" height="494" alt="ffa" src="https://github.com/user-attachments/assets/692309ba-d52b-443d-98d8-ebd81ef13cfb" />
 
 
 # 🔫 Mirror Shooter / ミラーシューター / 미러슈터
