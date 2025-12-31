@@ -124,6 +124,10 @@ This pistol-shaped prop features LED illumination and a laser emitter at the muz
 
 ## Gallery
 
+![KakaoTalk_20251231_225942691_01](https://github.com/user-attachments/assets/b4e24b95-2e4d-4564-8147-ecba935fdbea)
+
+![KakaoTalk_20251231_225942691_02](https://github.com/user-attachments/assets/cd74361e-1b33-4cd0-bc66-ea31d8165fca)
+
 ![8](https://github.com/user-attachments/assets/6e41dd72-09c4-4686-b1c1-594fc0c8d4f9)
 
 ![7](https://github.com/user-attachments/assets/c68b97d4-369b-4458-80ca-10f9507a03ae)
